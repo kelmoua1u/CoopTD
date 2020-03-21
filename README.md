@@ -16,7 +16,7 @@ npm run build
 ```
 ### Bugs
 ```
-Modification du message et conversation,suppression du navbar dans la plupart des views à cause d'une mauvaise adaptation avec le contenu.
+Modification du message et conversation,suppression du navbar dans la plupart des views à cause d'une mauvaise adaptation avec le contenu
 ```
 
 ### Customize configuration
